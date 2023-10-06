@@ -23,13 +23,7 @@ https://t.me/sixtininelearn
 step1:
 ````
 wget -N --no-check-certificate https://raw.githubusercontent.com/69learn/cisco-tunnel/main/ocserv-en.sh
-````
-step2:
-````
 chmod +x ocserv.sh
-````
-step3:
-````
 bash ocserv.sh
 ````
 
