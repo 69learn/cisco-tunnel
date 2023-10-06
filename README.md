@@ -20,7 +20,6 @@ https://t.me/sixtininelearn
 
 # Installer
 
-step1:
 ````
 wget -N --no-check-certificate https://raw.githubusercontent.com/69learn/cisco-tunnel/main/ocserv-en.sh
 chmod +x ocserv.sh
